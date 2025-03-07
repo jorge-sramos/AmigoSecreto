@@ -35,7 +35,8 @@ console.log(sorteio);
 
 ## 🧑‍💻 Desenvolvedor
 
-- **Jorge Ramos** - [jorge-sramos](https://github.com/jorge-sramos)
+[![Jorge Ramos](https://github.com/jorge-sramos.png?size=100)](https://github.com/jorge-sramos)  
+**[Jorge Ramos](https://github.com/jorge-sramos)**
 
 ---
 
