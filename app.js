@@ -37,9 +37,3 @@ function sortearAmigo() {
     let resultado = document.getElementById("resultado");
     resultado.innerHTML = `O amigo sorteado foi: ${sorteado}`;
 }
-
-//function removendoAmigo() {
-    //let tirarNome = document.getElementById("listaAmigos");
-    //tirarNome = resultado.removeAttribute(`${resultado}`);
-    //return;
-//}
