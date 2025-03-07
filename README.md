@@ -12,15 +12,15 @@ Este projeto foi desenvolvido com a seguinte tecnologia:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/amigo-secreto.git
+   git clone https://github.com/jorge-sramos/AmigoSecreto.git
    ```
 2. Acesse a pasta do projeto:
    ```bash
-   cd amigo-secreto
+   Challenge Amigo Secreto
    ```
-3. Execute o script JavaScript:
+3. Execute o:
    ```bash
-   app.js
+   index
    ```
 
 ## 📄 Exemplo de Uso
