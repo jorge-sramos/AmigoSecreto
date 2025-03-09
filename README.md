@@ -33,6 +33,16 @@ const sorteio = realizarSorteio(participantes);
 console.log(sorteio);
 ```
 
+## 📹 Demonstração
+
+Aqui está um vídeo demonstrando o funcionamento do script:
+
+![Demonstração do Sorteio]
+```
+1. Insira o nome dos participantes e clique em "Adicionar"
+[!Passo 1](Imagens/InserindonnomesAS.png)
+```
+
 ## 🧑‍💻 Desenvolvedor
 
 [![Jorge Ramos](https://github.com/jorge-sramos.png?size=100)](https://github.com/jorge-sramos)  
