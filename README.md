@@ -1,6 +1,6 @@
 # Sorteio de Amigo Secreto
 
-Este projeto realiza o sorteio para um evento de **Amigo Secreto**, você pode inserir os nomes dos participantes e sotear quem será o amigo secreto de cada participante.
+Este projeto realiza o sorteio para um evento de **Amigo Secreto**, você pode inserir os nomes dos participantes e sortear quem será o amigo secreto de cada participante.
 
 ## 📌 Sobre o Projeto
 
