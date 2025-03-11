@@ -6,45 +6,19 @@ Este projeto realiza o sorteio para um evento de **Amigo Secreto**, garantindo q
 
 Este projeto foi desenvolvido com a seguinte tecnologia:
 
-- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+💻 **Java Script**
 
-## 📌 Como Usar
+## 📄 Demonstração
 
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/jorge-sramos/AmigoSecreto.git
-   ```
-2. Acesse a pasta do projeto:
-   ```bash
-   Challenge Amigo Secreto
-   ```
-3. Execute o:
-   ```bash
-   index
-   ```
-
-## 📄 Exemplo de Uso
-
-O script recebe uma lista de participantes e gera um pareamento aleatório para o Amigo Secreto.
-
-```javascript
-const participantes = ['Alice', 'Bob', 'Carlos', 'Diana'];
-const sorteio = realizarSorteio(participantes);
-console.log(sorteio);
-```
-
-## 📹 Demonstração
-
-Aqui está um vídeo demonstrando o funcionamento do script:
-
-![Demonstração do Sorteio]
+Aqui está duas imagens demonstrando o funcionamento da página:
 
 1. Insira o nome dos participantes e clique em "Adicionar"
-[!Passo 1](C:\Users\brend\OneDrive\Imágenes.png)
 
-2. Click no botão "Sortear", para poder sortear quem será seu amigo secreto
-[!Passo⁮⁮⁮ 2] (C:\Users\brend\Music.png)
+![Image](https://github.com/user-attachments/assets/905d8845-1402-46ad-b767-6e12a861fb60)
 
+2. Click no botão "Sortear amigo" para sortear quem será seu amigo secreto.
+
+![Image](https://github.com/user-attachments/assets/22a604fe-b64c-4c49-9af4-84fbae724e66)
 
 ## 🧑‍💻 Desenvolvedor
 
