@@ -38,10 +38,13 @@ console.log(sorteio);
 Aqui está um vídeo demonstrando o funcionamento do script:
 
 ![Demonstração do Sorteio]
-```
+
 1. Insira o nome dos participantes e clique em "Adicionar"
-[!Passo 1](https://github.com/jorge-sramos/AmigoSecreto/blob/main/Imagens/Inserindo%20nomes%20AS.png)
-```
+[!Passo 1](C:\Users\brend\OneDrive\Imágenes.png)
+
+2. Click no botão "Sortear", para poder sortear quem será seu amigo secreto
+[!Passo⁮⁮⁮ 2] (C:\Users\brend\Music.png)
+
 
 ## 🧑‍💻 Desenvolvedor
 
