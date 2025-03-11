@@ -6,6 +6,10 @@ Este projeto realiza o sorteio para um evento de **Amigo Secreto**, você pode i
 
 Detalhes sobre como utlizar o código.
 
+## 📌 Sobre o Projeto
+
+Detalhes sobre como utlizar o código.
+
 ## 🚀 Tecnologias
 
 Este projeto foi desenvolvido com a seguinte tecnologia:
