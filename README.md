@@ -40,7 +40,7 @@ Aqui está um vídeo demonstrando o funcionamento do script:
 ![Demonstração do Sorteio]
 ```
 1. Insira o nome dos participantes e clique em "Adicionar"
-[!Passo 1](Imagens/InserindonnomesAS.png)
+[!Passo 1](https://github.com/jorge-sramos/AmigoSecreto/blob/main/Imagens/Inserindo%20nomes%20AS.png)
 ```
 
 ## 🧑‍💻 Desenvolvedor
